@@ -1,0 +1,14 @@
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/bin/Debug/net8.0/Questao1
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/bin/Debug/net8.0/Questao1.deps.json
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/bin/Debug/net8.0/Questao1.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/bin/Debug/net8.0/Questao1.dll
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/bin/Debug/net8.0/Questao1.pdb
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.dll
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/refint/Questao1.dll
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.pdb
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/Questao1.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-01-csharp/Questao1/obj/Debug/net8.0/ref/Questao1.dll
